@@ -27,7 +27,7 @@ Vacuum cleaner exploration's image after 10 minutes:
 
 Video:
 
-![Vacuum cleaner video](hhttps://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/Video-p1.webm "Vacuum cleaner video")
+![Vacuum cleaner video](https://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/Video-p1.webm "Vacuum cleaner video")
 
 
 ## Practise difficulties
