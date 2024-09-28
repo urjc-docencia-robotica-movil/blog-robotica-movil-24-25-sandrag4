@@ -7,6 +7,7 @@
 - RIGHT
 - LEFT
 
+
 ## Algorithm
 The vacuum cleaner starts in the "SPIRAL" state doing a spiral, and remains in the spiral state until de laser detects an obstacle at a distance less than 0.2 or the bumper detects a collision. The next state depends on the location of the obstacle:
 - if the obstacle is in front of the vacuum cleaner the state changes to "BACK", in which the robot goes backwards while turning left.
@@ -19,9 +20,14 @@ The vacuum cleaner keeps on the "FORWARD" state for three seconds or until eithe
 
 
 ## Exploration
-Vacuum exploration after 10 minutes:
+Vacuum cleaner exploration's image after 10 minutes:
 
-![Vacuum cleaner](https://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/Image-p1.jpeg "Vacuum cleaner")
+![Vacuum cleaner image](https://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/Image-p1.jpeg "Vacuum cleaner image")
+
+
+Video:
+
+![Vacuum cleaner video](hhttps://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/Video-p1.webm "Vacuum cleaner video")
 
 
 ## Practise difficulties
