@@ -15,7 +15,7 @@ The vacuum cleaner keeps on the "FORWARD" state for three seconds or until eithe
 ## State diagram
 State diagram:
 
-![State diagram](https://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/State_diagram-p1.jpeg "State diagram")
+![State diagram](https://github.com/urjc-docencia-robotica-movil/blog-robotica-movil-24-25-sandrag4/blob/main/files/State_diagram-p1.jpg "State diagram")
 
 
 
