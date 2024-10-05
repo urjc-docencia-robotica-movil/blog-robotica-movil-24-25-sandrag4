@@ -27,7 +27,7 @@ Vacuum cleaner exploration's image after 10 minutes:
 
 Ten minute video:
 
-![Vacuum cleaner video](https://urjc-my.sharepoint.com/:v:/g/personal/s_gonzaleza_2022_alumnos_urjc_es/EUujocqULsFFkv2aN1dFIQgBXz8pi409pgws-TNEdx3SYQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=MAK1CD "Vacuum cleaner video")
+![Vacuum cleaner video](https://urjc-my.sharepoint.com/:v:/g/personal/s_gonzaleza_2022_alumnos_urjc_es/EUujocqULsFFkv2aN1dFIQgBXz8pi409pgws-TNEdx3SYQ?e=sYdp7a "Vacuum cleaner video")
 
 
 
